@@ -1,7 +1,7 @@
 ### Why, hello there! 👋
 
 My name is Rob LeCheminant. </br>
-✨ I’m currently learning Data Science and Computer Science through Lambda School and am nearly done. This subject has been absolutely enjoyable and I can't wait to get started on a long career in software, data, and machine learning / AI! </br>
+✨ I’m currently learning Data Science and Computer Science through Lambda School and am nearly done. This subject has been absolutely enjoyable and I can't wait to get started on a long career in software, data, machine learning, and AI! </br>
 
 ⚡ Take a look at my <a href="https://lechemrc.github.io">portfolio.</a>
 ⚡ See what I'm up to on </a href="https://www.linkedin.com/rob-lecheminant">LinkedIn</a>
