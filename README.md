@@ -3,8 +3,8 @@
 My name is Rob LeCheminant. </br>
 ✨ I’m currently learning Data Science and Computer Science through Lambda School and am nearly done. This subject has been absolutely enjoyable and I can't wait to get started on a long career in software, data, machine learning, and AI! </br>
 
-⚡ Take a look at my <a href="https://lechemrc.github.io">portfolio.</a>
-⚡ See what I'm up to on </a href="https://www.linkedin.com/rob-lecheminant">LinkedIn</a>
+⚡ Take a look at my <a href="https://lechemrc.github.io">portfolio.</a></br>
+⚡ See what I'm up to on <a href="https://www.linkedin.com/rob-lecheminant">LinkedIn</a></br>
 
 ⚡ Just a personal note: I have long term goals in building better educational tools to help set teachers free to do excellent work and not get bogged down in grading, metrics, reports, etc. Ask me about it sometime! </br>
 
