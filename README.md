@@ -1,7 +1,7 @@
 ### Howdy! 👋
 
 My name is Rob LeCheminant. </br>
-✨ I’m a new Data Science and Computer Science graduate through Lambda School continuing my education through self-study. This subject has been absolutely enjoyable and I can't wait to get started on a long career in software, data, machine learning, and AI! </br>
+✨ I’m a Data Scientist and  graduate through Lambda School (now Bloomtech). I love data science and, though I'm relatively new to the field, I've embarked on a long career in software, data, machine learning, and AI! </br>
 
 ⚡ Take a look at my <a href="https://lechemrc.github.io">portfolio.</a></br>
 ⚡ See what I'm up to on <a href="https://www.linkedin.com/in/rob-lecheminant/">LinkedIn</a></br>
